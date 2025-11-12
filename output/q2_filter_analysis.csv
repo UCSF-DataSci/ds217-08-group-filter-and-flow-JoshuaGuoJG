@@ -1,0 +1,11 @@
+facility_name,sufficient_staffing,experienced_staff,high_volume
+Northside Urgent Care,True,True,True
+City General Hospital,True,True,True
+Regional Medical Center,True,True,True
+Surgical Specialty Center,True,True,True
+Cardiology Specialty Center,True,True,True
+Oncology Treatment Center,True,True,True
+Community Health Clinic,True,True,True
+Emergency Medical Center,True,True,True
+Pediatric Care Center,True,True,True
+Primary Care Clinic,True,True,True
