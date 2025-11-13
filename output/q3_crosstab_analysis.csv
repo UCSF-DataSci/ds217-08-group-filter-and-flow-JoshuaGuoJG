@@ -1,8 +1,8 @@
-facility_type,region,Emergency,Inpatient,Lab,Office Visit,Outpatient Procedure,Total
+facility_type,region,Emergency,Inpatient,Lab,Office Visit,Outpatient Procedure,All
 Hospital,South,127,95,100,85,102,509
 Specialty Center,South,236,210,211,175,194,1026
 Specialty Center,West,182,191,180,200,193,946
 Urgent Care,North,109,90,90,112,109,510
 Urgent Care,South,190,190,229,178,183,970
 Urgent Care,West,195,201,228,200,215,1039
-Total,,1039,977,1038,950,996,5000
+All,,1039,977,1038,950,996,5000
