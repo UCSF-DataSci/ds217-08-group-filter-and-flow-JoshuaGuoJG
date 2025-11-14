@@ -1,4 +1,4 @@
-facility_name,total_providers,avg_years_experience,total_encounter_charge,total_insurance_paid
+facility_name,provider_id,years_experience,service_charge,insurance_paid
 Cardiology Specialty Center,297,19.31972789115646,276658.83,222139.04
 City General Hospital,312,19.5630081300813,295508.13,236798.5
 Community Health Clinic,328,20.16078431372549,334992.21,269207.92
